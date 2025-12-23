@@ -1,0 +1,7 @@
+[
+  {"id": "H", "name": "Hydrogen", "symbol": "H", "fact": "The universe's #1 element! It's in stars and water. 🌟"},
+  {"id": "O", "name": "Oxygen", "symbol": "O", "fact": "Plants make it, and we breathe it! 🌬️"},
+  {"id": "C", "name": "Carbon", "symbol": "C", "fact": "The 'Diamond' element. All life on Earth is built with it! 💎"},
+  {"id": "Na", "name": "Sodium", "symbol": "Na", "fact": "A soft metal that's super reactive. ⚡"},
+  {"id": "Cl", "name": "Chlorine", "symbol": "Cl", "fact": "A yellow-green gas that helps keep pools clean! 🏊"}
+]
