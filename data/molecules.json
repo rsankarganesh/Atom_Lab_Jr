@@ -1,0 +1,6 @@
+{
+  "H,H,O": {"name": "Water", "emoji": "💧", "desc": "H2O! The most important drink in the world."},
+  "C,O,O": {"name": "Carbon Dioxide", "emoji": "💨", "desc": "CO2! This is what we breathe out."},
+  "O,O": {"name": "Oxygen Gas", "emoji": "🌬️", "desc": "O2! Two oxygen atoms holding hands so we can breathe."},
+  "Cl,Na": {"name": "Table Salt", "emoji": "🧂", "desc": "NaCl! Sodium and Chlorine joined to season your fries."}
+}
