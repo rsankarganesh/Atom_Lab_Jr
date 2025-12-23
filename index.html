@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atom Lab Jr | Ricky's Launchpad</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>🧪 Atom Lab Jr</h1>
+        <p>Explore the tiny building blocks of the universe!</p>
+    </header>
+
+    <main class="container">
+        <section class="card">
+            <h2>1. Meet the Atom</h2>
+            <p>Atoms are the tiny "LEGO bricks" of everything! They are made of three main parts:</p>
+            
+            <ul class="atom-list">
+                <li><strong>🔴 Protons:</strong> Positive energy (+)</li>
+                <li><strong>⚪ Neutrons:</strong> Neutral energy (0)</li>
+                <li><strong>🔵 Electrons:</strong> Negative energy (-)</li>
+            </ul>
+        </section>
+
+        <section class="card">
+            <h2>2. Element Explorer</h2>
+            <p>Click a symbol to reveal its secret power!</p>
+            <div id="element-grid" class="grid"></div>
+            <div id="element-info" class="info-box">Waiting for you to pick an element...</div>
+        </section>
+
+        <section class="card">
+            <h2>3. Molecule Builder</h2>
+            <p>Add atoms to the beaker, then hit <strong>Combine</strong>!</p>
+            <div id="builder-controls" class="grid"></div>
+            <div id="beaker-area">
+                <div id="beaker-contents"></div>
+            </div>
+            <div class="action-btns">
+                <button id="combine-btn" class="btn primary">✨ Combine!</button>
+                <button id="clear-btn" class="btn secondary">🗑️ Clear Lab</button>
+            </div>
+            <div id="molecule-result" class="result-box"></div>
+        </section>
+
+        <p class="safety-footer">⚠️ Note: This is a digital simulation. Real chemistry requires goggles and adult help!</p>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
